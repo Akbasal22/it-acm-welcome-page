@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Akbasal22/itu-acm-welcome-page/static/css/main.e76e780f.css",
-    "main.js": "/Akbasal22/itu-acm-welcome-page/static/js/main.1c5104d7.js",
-    "static/js/453.3e30ed3d.chunk.js": "/Akbasal22/itu-acm-welcome-page/static/js/453.3e30ed3d.chunk.js",
-    "static/media/ituacm-blue.png": "/Akbasal22/itu-acm-welcome-page/static/media/ituacm-blue.86ea7d8d54489e9178fa.png",
-    "index.html": "/Akbasal22/itu-acm-welcome-page/index.html",
-    "main.e76e780f.css.map": "/Akbasal22/itu-acm-welcome-page/static/css/main.e76e780f.css.map",
-    "main.1c5104d7.js.map": "/Akbasal22/itu-acm-welcome-page/static/js/main.1c5104d7.js.map",
-    "453.3e30ed3d.chunk.js.map": "/Akbasal22/itu-acm-welcome-page/static/js/453.3e30ed3d.chunk.js.map"
+    "main.css": "/itu-acm-welcome-page/static/css/main.e76e780f.css",
+    "main.js": "/itu-acm-welcome-page/static/js/main.ec76edb1.js",
+    "static/js/453.3e30ed3d.chunk.js": "/itu-acm-welcome-page/static/js/453.3e30ed3d.chunk.js",
+    "static/media/ituacm-blue.png": "/itu-acm-welcome-page/static/media/ituacm-blue.86ea7d8d54489e9178fa.png",
+    "index.html": "/itu-acm-welcome-page/index.html",
+    "main.e76e780f.css.map": "/itu-acm-welcome-page/static/css/main.e76e780f.css.map",
+    "main.ec76edb1.js.map": "/itu-acm-welcome-page/static/js/main.ec76edb1.js.map",
+    "453.3e30ed3d.chunk.js.map": "/itu-acm-welcome-page/static/js/453.3e30ed3d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e76e780f.css",
-    "static/js/main.1c5104d7.js"
+    "static/js/main.ec76edb1.js"
   ]
 }
