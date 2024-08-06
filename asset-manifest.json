@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/itu-acm-welcome-page/static/css/main.cc53dda9.css",
-    "main.js": "/itu-acm-welcome-page/static/js/main.c7c0d3f7.js",
+    "main.js": "/itu-acm-welcome-page/static/js/main.066d1ea5.js",
     "static/js/453.3e30ed3d.chunk.js": "/itu-acm-welcome-page/static/js/453.3e30ed3d.chunk.js",
     "static/media/ituacm-blue.png": "/itu-acm-welcome-page/static/media/ituacm-blue.86ea7d8d54489e9178fa.png",
     "static/media/ituacm-white.png": "/itu-acm-welcome-page/static/media/ituacm-white.77852e394ce1da4e38e2.png",
@@ -9,11 +9,11 @@
     "static/media/acm-white.png": "/itu-acm-welcome-page/static/media/acm-white.9342b2d3a4a15f730454.png",
     "index.html": "/itu-acm-welcome-page/index.html",
     "main.cc53dda9.css.map": "/itu-acm-welcome-page/static/css/main.cc53dda9.css.map",
-    "main.c7c0d3f7.js.map": "/itu-acm-welcome-page/static/js/main.c7c0d3f7.js.map",
+    "main.066d1ea5.js.map": "/itu-acm-welcome-page/static/js/main.066d1ea5.js.map",
     "453.3e30ed3d.chunk.js.map": "/itu-acm-welcome-page/static/js/453.3e30ed3d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cc53dda9.css",
-    "static/js/main.c7c0d3f7.js"
+    "static/js/main.066d1ea5.js"
   ]
 }
